@@ -1,0 +1,71 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:2009.13935
+
+Help | Advanced Search
+Search
+Computer Science > Computer Vision and Pattern Recognition
+(cs)
+[Submitted on 29 Sep 2020]
+Title: A Comparative Study of Deep Learning Loss Functions for Multi-Label Remote Sensing Image Classification
+Authors: Hichame Yessou , Gencer Sumbul , Begüm Demir
+Download PDF
+
+    Abstract: This paper analyzes and compares different deep learning loss functions in the framework of multi-label remote sensing (RS) image scene classification problems. We consider seven loss functions: 1) cross-entropy loss; 2) focal loss; 3) weighted cross-entropy loss; 4) Hamming loss; 5) Huber loss; 6) ranking loss; and 7) sparseMax loss. All the considered loss functions are analyzed for the first time in RS. After a theoretical analysis, an experimental analysis is carried out to compare the considered loss functions in terms of their: 1) overall accuracy; 2) class imbalance awareness (for which the number of samples associated to each class significantly varies); 3) convexibility and differentiability; and 4) learning efficiency (i.e., convergence speed). On the basis of our analysis, some guidelines are derived for a proper selection of a loss function in multi-label RS scene classification problems. 
+
+Comments: 	Accepted at IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2020. For code visit: this https URL
+Subjects: 	Computer Vision and Pattern Recognition (cs.CV) ; Machine Learning (cs.LG)
+Cite as: 	arXiv:2009.13935 [cs.CV]
+  	(or arXiv:2009.13935v1 [cs.CV] for this version)
+Submission history
+From: Gencer Sumbul [ view email ]
+[v1] Tue, 29 Sep 2020 11:35:26 UTC (2,730 KB)
+Full-text links:
+Download:
+
+    PDF
+    Other formats 
+
+( license )
+Current browse context:
+cs.CV
+< prev   |   next >
+new | recent | 2009
+Change to browse by:
+cs
+cs.LG
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+Bibliographic Tools
+Bibliographic and Citation Tools
+Bibliographic Explorer Toggle
+Bibliographic Explorer ( What is the Explorer? )
+Code
+Related Papers
+About arXivLabs
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+

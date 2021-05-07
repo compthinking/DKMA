@@ -1,0 +1,80 @@
+
+Skip to main content
+Cornell University
+We gratefully acknowledge support from
+the Simons Foundation and member institutions.
+arXiv.org > cs > arXiv:1609.04747
+
+Help | Advanced Search
+Search
+Computer Science > Machine Learning
+(cs)
+[Submitted on 15 Sep 2016 ( v1 ), last revised 15 Jun 2017 (this version, v2)]
+Title: An overview of gradient descent optimization algorithms
+Authors: Sebastian Ruder
+Download PDF
+
+    Abstract: Gradient descent optimization algorithms, while increasingly popular, are often used as black-box optimizers, as practical explanations of their strengths and weaknesses are hard to come by. This article aims to provide the reader with intuitions with regard to the behaviour of different algorithms that will allow her to put them to use. In the course of this overview, we look at different variants of gradient descent, summarize challenges, introduce the most common optimization algorithms, review architectures in a parallel and distributed setting, and investigate additional strategies for optimizing gradient descent. 
+
+Comments: 	Added derivations of AdaMax and Nadam
+Subjects: 	Machine Learning (cs.LG)
+Cite as: 	arXiv:1609.04747 [cs.LG]
+  	(or arXiv:1609.04747v2 [cs.LG] for this version)
+Submission history
+From: Sebastian Ruder [ view email ]
+[v1] Thu, 15 Sep 2016 17:32:34 UTC (2,226 KB)
+[v2] Thu, 15 Jun 2017 13:21:04 UTC (7,304 KB)
+Full-text links:
+Download:
+
+    PDF
+    Other formats 
+
+( license )
+Current browse context:
+cs.LG
+< prev   |   next >
+new | recent | 1609
+Change to browse by:
+cs
+References & Citations
+
+    NASA ADS
+    Google Scholar
+    Semantic Scholar
+
+4 blog links
+( what is this? )
+DBLP - CS Bibliography
+listing | bibtex
+Sebastian Ruder
+a export bibtex citation Loading...
+Bookmark
+BibSonomy logo Mendeley logo Reddit logo ScienceWISE logo
+About arXivLabs
+arXivLabs: experimental projects with community collaborators
+
+arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.
+
+Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them.
+
+Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs and how to get involved .
+Bibliographic Tools
+Code
+Recommenders
+Which authors of this paper are endorsers? | Disable MathJax ( What is MathJax? )
+
+    About
+    Help
+
+    contact arXiv Click here to contact arXiv Contact
+    subscribe to arXiv mailings Click here to subscribe Subscribe
+
+    Copyright
+    Privacy Policy
+
+    Web Accessibility Assistance
+
+    arXiv Operational Status
+    Get status notifications via email or slack
+
