@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: post
 permalink: /tests/
 title: tests
 titleheader: Test Information
-description: Information about tests for the course.
-nav: true
+description: (NOTE- Needs to be updated for Spring 2021) Information about tests for the course.
+date: 2021-05-07
+nav: false
 aside: 
     toc: true
 showtitle: true

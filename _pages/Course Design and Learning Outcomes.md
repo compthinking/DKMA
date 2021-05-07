@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: post
 permalink: /outcomes/
 title: design
 titleheader: Course Design and Learning Outcomes
 description: Overview of the design philosophy of the course and the Focussed Learning Outcomes
 nav: false
 showtitle: true
+date: 2021-05-07
 ---
 
 The world of Data Science and Machine Learning is vast and there are too many topics to cover in a single course. So, to help us bring some order to the chaos, this course is organized hierarchically in terms of **Topics**, **Modules** and cross-cutting labels of **Core** and **Non-Core** topics.

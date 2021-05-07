@@ -3,7 +3,6 @@ layout: default
 ---
 
 <div class="post">
-
   <header class="post-header">
     <h1 class="post-title">
      {% if page.title == blank %}

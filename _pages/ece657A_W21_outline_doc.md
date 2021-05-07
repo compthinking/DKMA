@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /outline/
 title: outline
 titleheader: Course Outline
@@ -10,20 +10,20 @@ toc_icon: "list-ol"
 toc_sticky: true
 description: Course information, topics, schedule and policies.
 showtitle: true
+date: 2021-05-07
 ---
 **Course code:** ECE657A    **Term:** Spring 2021
 
 **Instructor:** Prof. Mark Crowley ([mcrowley@uwaterloo.ca](mailto:mcrowley@uwaterloo.ca)) *Department: Department of Electrical and Computer Engineering, University of Waterloo, Faculty of Engineering*  
 
 **Teaching Assistants:**
-
 - TBD
 
 **Permanent Course Website:** https://uwaterloo.ca/scholar/mcrowley/ece657a
 
 **Teaching Period: May 10 – Aug 5, 2021**
 
-**Detailed Weekly Course Schedule:** [Weekly Course Schedule (Winter 2021 Term) (pdf)](/assets/pdf/coursescheduleforprinting_outputtohtm_v3.pdf) *(updated Jan 15, 2021)*
+**Detailed Weekly Course Schedule:** TBD
 
 **Available Office hours:** TBD via doodle online bookable hours
 
@@ -89,10 +89,15 @@ These topics are an outline, and each year some subset of non-core topics will b
 - *Pre-Recorded Content:* Some weeks there will be pre-recorded lecture content available, the total content (live-recorded, or pre-recorded self-study) per week will be maintained around the same level, around 3-4 hours of content per week.
     - See [DKMA youtube channel](https://www.youtube.com/channel/UC7vU2kP8oNwvr0GuAqoxYGA)
 - **Weekly Live Sessions:** There will be 2-3 hrs of weekly live sessions from course staff (instructor and/or TAs) which will include
-  - Live lectures (hosted and recorded on "Bongo") on core, high level topics
+  - Live lecture reviews (hosted and recorded on "Bongo" within LEARN) reviewing or going deeper into core, high level topics
   - Recordings of these will be avilable on LEARN via the `Content/Virtual Classroom` link and in each week's content 
   - Help sessions (unrecorded) to discuss content, answer questions and build class community
-  - **Scheduling**: my goal is to arrange two 1:30 timeslots a week such that all students can attend *at least one* of the weekly lectures. They will be recorded and available attendance and interaction will lead to much better understanding if we can achieve it.
+  
+#### Planned Weekly Schedule:
+
+- **Mondays 9:30am- 11:00 am** - The *weekly lecture* slot on Mondays will be used for discussion of the self-study material from the previous week, additional questions and exercises and general discussion.
+- **Fridays 10:00am - 11:am** - Regular bookable one-on-one meeting slots with the professor, bookable via doodle. Additional hours could be created if there is a need.
+- **TA office hours** - to be determined (some times on Tuesday-Thursdays)
 
 
 ## Assessment: 
@@ -101,8 +106,7 @@ The goal of this course is to help students learn how to **analyse and prepare**
 
 ### Weighting of Assessments
 
-- **65% Assignments** (four assignments, done in pairs or alone):
-  
+- **65% Assignments** (three or four assignments, done in pairs or alone):
   - Assignments will arise from the major component topics of the course, some will buid on previous assignment outcomes.
   - Possibility to have later assignments as Kaggle-style competitive submissions (note: vast majority of grade will be based on performance and correcteness rather than based on competitive performance)
   - Assignments will involve multiple skills:
@@ -117,8 +121,7 @@ The goal of this course is to help students learn how to **analyse and prepare**
       - 24-48 hours (10%)
       - \>48 hours (100%)
     - If you know *ahead of time* that you will not be able to make the deadline do to *serious* health or personal issues contact the professor to ask for an exception.
-- *534% Tests**  
-    
+- **35% Tests**  
     - Three tests on different parts of the course.
     - These will be done alone and time-limited. 
     - We will use online timed question banks and take-home files submitted to Crowdmark.
@@ -126,19 +129,10 @@ The goal of this course is to help students learn how to **analyse and prepare**
     - **Test Weighting**: Test 1 (10%), Test 2 (10%), Test 3 (14%)
     
     
-### Participation Ideas
-- Basic level (ie. to get more than zero):
-  - at least 5 substantive posts on piazza
-  - introduce yourself to your House and Crew
-  - create an avatar of some kind, doesn't have to be a picture of you, but some personality so people remember who you are.
-- Extra level (to get full participation):
-  - This could include engagement in live sessions, creation of annotated writeups of course materials for other students to utilize, or literature reviews of papers for other students to read.
-- **Discussion**: But what do *you* think would be appropriate ways to judge participation?
-
 
 ## Getting Help:
 
-- **Discussion board:** [piazza.com/uwaterloo.ca/winter2021/ece657a](piazza.com/uwaterloo.ca/winter2021/ece657a) *Access Code: DKMA*
+- **Discussion board:** TBD *Access Code: DKMA*
   - *Piazza* will be the main place for detailed discussion and questions. Students can post anonymously (from students only), post a collaborative answer and course staff can confirm these, post their own or run Live Q&A events.
   - Go there there and sign up with your UWaterloo email now!
   - *Community:* we will strive to create an active community within the course using live sessions, social platforms and crosscutting study group assignments and fun challenges throughout the term. This will be an experiment, so it will be optional, but hopefully we can all build a Data Analysis and Machine Learning graduate student community in the deparment that will benenfit everyone.
