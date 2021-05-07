@@ -11,23 +11,21 @@ toc_sticky: true
 description: Course information, topics, schedule and policies.
 showtitle: true
 ---
-**Course code:** ECE657A    **Term:** Winter 2021
+**Course code:** ECE657A    **Term:** Spring 2021
 
 **Instructor:** Prof. Mark Crowley ([mcrowley@uwaterloo.ca](mailto:mcrowley@uwaterloo.ca)) *Department: Department of Electrical and Computer Engineering, University of Waterloo, Faculty of Engineering*  
 
 **Teaching Assistants:**
 
-- Benyamin Ghojogh (bghojogh@uwaterloo.ca) 
-- Shailja Thakur (s7thakur@uwaterloo.ca) 
-- Mohamed Sadok Gastli (ms2gastli@uwaterloo.ca)
+- TBD
 
 **Permanent Course Website:** https://uwaterloo.ca/scholar/mcrowley/ece657a
 
-**Teaching Period: January 11 – April 14, 2021**
+**Teaching Period: May 10 – Aug 5, 2021**
 
-**Detailed Weekly Course Schedule:** [Weekly Course Schedule (pdf)](/assets/pdf/coursescheduleforprinting_outputtohtm_v3.pdf) *(updated Jan 15, 2021)*
+**Detailed Weekly Course Schedule:** [Weekly Course Schedule (Winter 2021 Term) (pdf)](/assets/pdf/coursescheduleforprinting_outputtohtm_v3.pdf) *(updated Jan 15, 2021)*
 
-**Available Office hours:** TBD in discussion with students
+**Available Office hours:** TBD via doodle online bookable hours
 
 
 
@@ -103,7 +101,7 @@ The goal of this course is to help students learn how to **analyse and prepare**
 
 ### Weighting of Assessments
 
-- **64% Assignments** (four assignments, done in pairs or alone):
+- **65% Assignments** (four assignments, done in pairs or alone):
   
   - Assignments will arise from the major component topics of the course, some will buid on previous assignment outcomes.
   - Possibility to have later assignments as Kaggle-style competitive submissions (note: vast majority of grade will be based on performance and correcteness rather than based on competitive performance)
@@ -119,16 +117,14 @@ The goal of this course is to help students learn how to **analyse and prepare**
       - 24-48 hours (10%)
       - \>48 hours (100%)
     - If you know *ahead of time* that you will not be able to make the deadline do to *serious* health or personal issues contact the professor to ask for an exception.
-- **34% Tests**  
+- *534% Tests**  
+    
     - Three tests on different parts of the course.
     - These will be done alone and time-limited. 
     - We will use online timed question banks and take-home files submitted to Crowdmark.
     - For each test, questions will be on content up to that point on concepts, theory and design.
     - **Test Weighting**: Test 1 (10%), Test 2 (10%), Test 3 (14%)
-- **2% Participation** 
-    - This will be **discussed collectively** at start of term.
-    - This could include engagement in live sessions and the piazza discussion board, creation of annotated writeups of course materials for other students to utilize, or literature reviews of papers for other students to read.
-
+    
     
 ### Participation Ideas
 - Basic level (ie. to get more than zero):
@@ -152,24 +148,8 @@ The goal of this course is to help students learn how to **analyse and prepare**
 - **AccessAbility Services :** http://uwaterloo.ca/accessability-services 
   - If you need any accommodation, assistance with exams, learning environment, assignments, talk to this office and they can help you set it up as securely and anonymously as possible.
 
-### Building A Randomized Community
-I know it's hard to get to know people and build a community when you are all working remotely and most of you have never actually met. 
 
-Some of you aren't even in Canada!
 
-You will also be assigned to two types of subgroups, ***Houses*** and ***Crews***, to encourage teamwork and socialization amongst your classmates.
-Participation in these groups is *optional* and up to you but I think it will help a lot with a feeling of connection and will provide ways to have more people you "know" to ask for help or to form partners for assignments. 
-
-#### Your House and Your Crew
-- **House** - Each house will have one TA or instructor as their guide, but the culture and interaction of a house is *entirely up to you, it's members*. 
-  - There will be 3 houses, assigned randomly. Each house will have a dedicated space on the piazza discussion board, and you'll need to introduce yourself to your house as part of your participation grade.
-  - You can think of the people in your House as Super-fans of the same Anime/Movie/Manga/DnD/VideoGame/SportsballTeam as you, or everyone in the same school dormitory. It's a large group but it's a third of the class and you have some common stake together 
-  - Aggregate kaggle assignment scores/ranks and participation scores will be listed by house.
-
-- **Crew** - Each crew is a smaller, random group assignment of around 7 people that can act as a study group of last resort. Think of these people are like distant cousins, or strangers with the same last name! They don't *actually* owe you anything, but if you met in a coffee shop and realized your loose connection, you would probably follow each other on <INSERT WHATEVER SOCIAL NETWORK PEOPLE USE THESE DAYS>. And if you needed help on something, that didn't require a huge trial on their part, they'd probably help you.
-
-  
-  
 ## Resources: 
 
 There is no required textbook. But most of the course is based on the following books and will be useful to take a look at them.
@@ -225,3 +205,4 @@ A decision made or penalty imposed under Policy 70, Student Petitions and Grieva
 ### Note for students with disabilities:
 
 The Office for Persons with Disabilities (OPD), located in Needles Hall, Room 1132, collaborates with all academic departments to arrange appropriate accommodations for students with disabilities without compromising the academic integrity of the curriculum. If you require academic accommodations to lessen the impact of your disability, please register with the OPD at the beginning of each academic term.
+
