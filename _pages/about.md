@@ -11,8 +11,8 @@ profile:
         <li><a href="outline">Course Outline</a></li>
         <li><a href="assets/pdf/coursescheduleforprinting_outputtohtm_v2.pdf">Course Schedule (Winter 2021)</a></li>
         <li><a href="https://www.zotero.org/groups/2621805/dkma/"> Zotero Reference List</a></li>
-        <li>Piazza Discussion (TBD)</li>
-        <li>LEARN Site</li>
+        <li><a href="https://piazza.com/uwaterloo.ca/summer2021/ece657a">Piazza Discussion</a></li>
+        <li><a href="https://www.youtube.com/channel/UC7vU2kP8oNwvr0GuAqoxYGA">YouTube</a>
     </ul></p>
 
 news: true  # includes a list of news items
