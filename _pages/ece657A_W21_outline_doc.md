@@ -10,33 +10,34 @@ toc_icon: "list-ol"
 toc_sticky: true
 description: Course information, topics, schedule and policies.
 showtitle: true
-date: 2021-05-07
+date: 2021-05-08
 ---
-**Course code:** ECE657A    **Term:** Spring 2021
 
-**Instructor:** Prof. Mark Crowley ([mcrowley@uwaterloo.ca](mailto:mcrowley@uwaterloo.ca)) *Department: Department of Electrical and Computer Engineering, University of Waterloo, Faculty of Engineering*  
-
-**Teaching Assistants:**
-- TBD
-
-**Permanent Course Website:** https://uwaterloo.ca/scholar/mcrowley/ece657a
-
-**Teaching Period: May 10 – Aug 5, 2021**
-
-**Detailed Weekly Course Schedule:** TBD
-
-**Available Office hours:** TBD via doodle online bookable hours
+# Course ECE657A  - DKMA - Data and Knowledge Modelling and Analysis
 
 
+|             **Offered:** Spring 2021             |              **Instructor:** Prof. Mark Crowley              |
+| :----------------------------------------------: | :----------------------------------------------------------: |
+| [Website]( https://compthinking.github.io/DKMA/) | [Bookable Meetings](https://doodle.com/mm/markcrowley/bookable-1on1-657a) |
+|                    [Piazza](https://piazza.com/uwaterloo.ca/summer2021/ece657a)                    | [YouTube](https://www.youtube.com/channel/UC7vU2kP8oNwvr0GuAqoxYGA) |
 
-## Course Description
+### Course Description
 
 Engineers encounter data in many of their tasks, whether the sources of this data may be from experiments, databases, computer files or the Internet.  There is a dire need for effective methods to model and analyze the data and extract useful knowledge from it and to know how to act on it. In this course you will learn the fundamental tools for assessing, preparing and analyzing data. You will learn to design a data and analysis pipeline to move from raw data to task solution. You will learn to implement a variety of analytical and machine learning algorithms to including supervised, unsupervised and other learning approaches. Students will gain practical experience with coding and analysis through assignments. Research students will have opportunity to connect course material to their research as a project instead of some of the assignments. 
 
-**Recommended background:** *Data Structures and Algorithms, Basic Programming Skills (Python especially) and Basic Knowledge of Probability and Statistics Theory*.
+### Recommended background:
 
+- *Data Structures and Algorithms, Basic Programming Skills (Python especially) and Basic Knowledge of Probability and Statistics Theory*
+
+## Course Staff
+
+| **Instructor:** Prof. Mark Crowley                           | TA: Milad Sikaroudi                  | Fatemeh Tavakoli                           |
+| ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------ |
+| **Contact: **mcrowley@uwaterloo.ca (but for better results, use piazza or book a meeting)) | **Contact:** msikaroudi@uwaterloo.ca | **Contact:** fatemeh.tavakoli@uwaterloo.ca |
+| **Office Hour:** [Bookable Meetings](https://doodle.com/mm/markcrowley/bookable-1on1-657a) | **Office Hour:** TBD                 | **Office Hour:** TBD                       |
 
 ## Learning Outcomes
+
 The [Course Design and Learning Outcomes](/DKMA/outcomes) describe the design philosophy of this course which guide the topics and assessments below.
 
 ## Major Topics:
@@ -92,15 +93,15 @@ These topics are an outline, and each year some subset of non-core topics will b
   - Live lecture reviews (hosted and recorded on "Bongo" within LEARN) reviewing or going deeper into core, high level topics
   - Recordings of these will be avilable on LEARN via the `Content/Virtual Classroom` link and in each week's content 
   - Help sessions (unrecorded) to discuss content, answer questions and build class community
-  
 #### Planned Weekly Schedule:
 
-- **Mondays 9:30am- 11:00 am** - The *weekly lecture* slot on Mondays will be used for discussion of the self-study material from the previous week, additional questions and exercises and general discussion.
-- **Fridays 10:00am - 11:am** - Regular bookable one-on-one meeting slots with the professor, bookable via doodle. Additional hours could be created if there is a need.
+- ***Class Lecture/Discussion -*** **Mondays 9:30am- 11:00 am** - The *weekly lecture* slot on Mondays will be used for discussion of the self-study material from the previous week, additional questions and exercises and general discussion.
+- ***Bookable 1-on-1 Meetings -***  **Mondays 11:15am-12:00pm and Fridays 10:00am - 11:am** 
+  - These are regular, one-on-one (or a small group) meeting slots with the professor, [bookable via doodle](https://doodle.com/mm/markcrowley/bookable-1on1-657a) a few days ahead of time.
+  - [Doodle Bookable Calendar](https://doodle.com/mm/markcrowley/bookable-1on1-657a)
 - **TA office hours** - to be determined (some times on Tuesday-Thursdays)
 
-
-## Assessment: 
+## Assessment:
 
 The goal of this course is to help students learn how to **analyse and prepare** data, **describe and apply** theoretical concepts in Data Science and Machine Learning, **design** data processing pipelines and **implement** important machine learning algorithms on a range of datasets and tasks. This course will be a success if students can use these skills in their future endeavours, research and employment. To assess this, students will complete assignments that require all of these skills on real datasets and they will also complete small tests focussing on the theoretical and design aspects of these skills.
 
@@ -132,19 +133,24 @@ The goal of this course is to help students learn how to **analyse and prepare**
 
 ## Getting Help:
 
-- **Discussion board:** TBD *Access Code: DKMA*
+- **Discussion board:** 
   - *Piazza* will be the main place for detailed discussion and questions. Students can post anonymously (from students only), post a collaborative answer and course staff can confirm these, post their own or run Live Q&A events.
   - Go there there and sign up with your UWaterloo email now!
-  - *Community:* we will strive to create an active community within the course using live sessions, social platforms and crosscutting study group assignments and fun challenges throughout the term. This will be an experiment, so it will be optional, but hopefully we can all build a Data Analysis and Machine Learning graduate student community in the deparment that will benenfit everyone.
 - **Pre-recorded Video Lectures:** These will be made available on the [course youtube channel](https://www.youtube.com/channel/UC7vU2kP8oNwvr0GuAqoxYGA), and links from whithin Learn
 - **LEARN Website:** The main course content, announcements, grade stracking and materials will be made availble on Learn. All registered students should see this in their LEARN courses.
 - **Email the Teaching Assistant and Instructor:** Office Hours will be arranged once term starts as needed.
 - **AccessAbility Services :** http://uwaterloo.ca/accessability-services 
   - If you need any accommodation, assistance with exams, learning environment, assignments, talk to this office and they can help you set it up as securely and anonymously as possible.
 
+### Discussion Group Protocols
 
+- Posts on Piazza can be public or anonymous to your classmates, but they will *never* be anonymous to the TAs and Instructor. 
+- Be kind. Assume the best, not the worst. Think before you hit enter.
+- Posts which are considered offensive, abusive, bullying, discriminatory to any group or person, will be made private or deleted and followed up with private discussion.
+- If you feel there is inappropriate, hurtful behaviour occurring on the discussion forum, please notify the professor, TAs or department staff as you feel appropriate. 
+- If you really can't get in touch with anyone and it is an emergency you can contact Prof. Crowley directory via Microsoft Teams messaging (please don't abuse this though :| )
 
-## Resources: 
+## Resources:
 
 There is no required textbook. But most of the course is based on the following books and will be useful to take a look at them.
 
