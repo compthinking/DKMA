@@ -2,6 +2,23 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+//Added by Mark 
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  align: center;
+}
+
+th, td {
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+  text-align: center;
+}
+th {
+  background-color: var(--global-theme-color);
+  color: white;
+}
+
 // Typography
 
 a, table.table a {
