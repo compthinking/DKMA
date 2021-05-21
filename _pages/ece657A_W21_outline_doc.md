@@ -10,7 +10,7 @@ toc_icon: "list-ol"
 toc_sticky: true
 description: Course information, topics, schedule and policies.
 showtitle: true
-date: 2021-05-08
+date: 2021-05-18657A
 ---
 
 # Course ECE657A  - DKMA - Data and Knowledge Modelling and Analysis
@@ -31,10 +31,10 @@ Engineers encounter data in many of their tasks, whether the sources of this dat
 
 ## Course Staff
 
-| **Instructor:** Prof. Mark Crowley                           | TA: Milad Sikaroudi                  | Fatemeh Tavakoli                           |
-| ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------ |
-| **Contact: **mcrowley@uwaterloo.ca (but for better results, use piazza or book a meeting)) | **Contact:** msikaroudi@uwaterloo.ca | **Contact:** fatemeh.tavakoli@uwaterloo.ca |
-| **Office Hour:** [Bookable Meetings](https://doodle.com/mm/markcrowley/bookable-1on1-657a) | **Office Hour:** TBD                 | **Office Hour:** TBD                       |
+| **Instructor:** Prof. Mark Crowley                           | TA: Milad Sikaroudi                        | Fatemeh Tavakoli                           |
+| ------------------------------------------------------------ | ------------------------------------------ | ------------------------------------------ |
+| **Contact: **mcrowley@uwaterloo.ca (but for better results, use piazza or book a meeting)) | **Contact:** msikaroudi@uwaterloo.ca       | **Contact:** fatemeh.tavakoli@uwaterloo.ca |
+| **Office Hour:** [Bookable Meetings](https://doodle.com/mm/markcrowley/bookable-1on1-657a) | **Office Hour:** Wednesday<br />at 8:00 am |                                            |
 
 ## Learning Outcomes
 
@@ -93,10 +93,10 @@ These topics are an outline, and each year some subset of non-core topics will b
   - Live lecture reviews (hosted and recorded on "Bongo" within LEARN) reviewing or going deeper into core, high level topics
   - Recordings of these will be avilable on LEARN via the `Content/Virtual Classroom` link and in each week's content 
   - Help sessions (unrecorded) to discuss content, answer questions and build class community
-#### Planned Weekly Schedule:
 
-- ***Class Lecture/Discussion -*** **Mondays 9:30am- 11:00 am** - The *weekly lecture* slot on Mondays will be used for discussion of the self-study material from the previous week, additional questions and exercises and general discussion.
-- ***Bookable 1-on-1 Meetings -***  **Mondays 11:15am-12:00pm and Fridays 10:00am - 11:am** 
+#### Planned Weekly Schedule:
+- ***Class Lecture/Discussion -*** **Mondays 11:30 am- 12:50 pm** - The *weekly lecture* slot on Mondays will be used for discussion of the self-study material from the previous week, additional questions and exercises and general discussion.
+- ***Bookable 1-on-1 Meetings -***  **Thursdays 11:30am - 1:00pm** 
   - These are regular, one-on-one (or a small group) meeting slots with the professor, [bookable via doodle](https://doodle.com/mm/markcrowley/bookable-1on1-657a) a few days ahead of time.
   - [Doodle Bookable Calendar](https://doodle.com/mm/markcrowley/bookable-1on1-657a)
 - **TA office hours** - to be determined (some times on Tuesday-Thursdays)
@@ -148,10 +148,9 @@ The goal of this course is to help students learn how to **analyse and prepare**
 - Be kind. Assume the best, not the worst. Think before you hit enter.
 - Posts which are considered offensive, abusive, bullying, discriminatory to any group or person, will be made private or deleted and followed up with private discussion.
 - If you feel there is inappropriate, hurtful behaviour occurring on the discussion forum, please notify the professor, TAs or department staff as you feel appropriate. 
-- If you really can't get in touch with anyone and it is an emergency you can contact Prof. Crowley directory via Microsoft Teams messaging (please don't abuse this though :| )
+- If you really can't get in touch with anyone and it is an emergency you can contact Prof. Crowley directory via Microsoft Teams messaging (please don't abuse this though :- )
 
 ## Resources:
-
 There is no required textbook. But most of the course is based on the following books and will be useful to take a look at them.
 
 1. Arxiv Tutorials - links will be provided to a number of detailed tutorials on some course topics.
