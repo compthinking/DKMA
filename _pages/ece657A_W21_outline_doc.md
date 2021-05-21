@@ -10,7 +10,7 @@ toc_icon: "list-ol"
 toc_sticky: true
 description: Course information, topics, schedule and policies.
 showtitle: true
-date: 2021-05-18657A
+date: 2021-05-18
 ---
 
 # Course ECE657A  - DKMA - Data and Knowledge Modelling and Analysis
