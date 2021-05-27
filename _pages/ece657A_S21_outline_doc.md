@@ -3,19 +3,24 @@ layout: post
 permalink: /outline/
 title: outline
 titleheader: Course Outline
-nav: false
+nav: true
+toc: true
+toc_label: "Contents"
+toc_icon: "list-ol"
+toc_sticky: true
 description: Course information, topics, schedule and policies.
 showtitle: true
-date: 2021-05-18
+date: 2021-05-26
 ---
 
-# Course ECE657A  - DKMA - Data and Knowledge Modelling and Analysis (Complete! Winter 2021)
+# Course ECE657A  - DKMA - Data and Knowledge Modelling and Analysis
 
 
-|                   **Offered:** Winter 2021                   |              **Instructor:** Prof. Mark Crowley              |
+|                   **Offered:** Spring 2021                   |              **Instructor:** Prof. Mark Crowley              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |       [Website]( https://compthinking.github.io/DKMA/)       | [Bookable Meetings](https://doodle.com/mm/markcrowley/bookable-1on1-657a) |
 | [Piazza](https://piazza.com/uwaterloo.ca/summer2021/ece657a) | [YouTube](https://www.youtube.com/channel/UC7vU2kP8oNwvr0GuAqoxYGA) |
+|                [Weekly Calendar](/calendar/)                 |                                                              |
 
 ### Course Description
 
