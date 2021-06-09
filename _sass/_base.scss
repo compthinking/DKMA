@@ -7,6 +7,9 @@ table {
   border: 1px solid black;
   border-collapse: collapse;
   align: center;
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 th, td {
@@ -17,6 +20,11 @@ th, td {
 th {
   background-color: var(--global-theme-color);
   color: white;
+}
+
+
+h2, h3, h4 {
+  margin-top: 1em;
 }
 
 // Typography
