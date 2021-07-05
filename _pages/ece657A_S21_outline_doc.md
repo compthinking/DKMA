@@ -10,7 +10,7 @@ toc_icon: "list-ol"
 toc_sticky: true
 description: Course information, topics, schedule and policies.
 showtitle: true
-date: 2021-05-26
+date: 2021-07-05
 ---
 
 # Course ECE657A  - DKMA - Data and Knowledge Modelling and Analysis
@@ -61,7 +61,7 @@ These topics are an outline, and each year some subset of non-core topics will b
 4. Representation Learning I
    1. (s) Feature extraction : PCA, LDA, ISOMAP, LLE
    2. (s) Dimensionality Reduction and Manifold Learning
-   3. Vector Embeddings : TF-IDF, Word2Vec, BERT
+   3. `(topic dropped)` *Vector Embeddings : TF-IDF, Word2Vec, BERT*
 5. Classification II : 
    1. Support Vector Machines (SVM)
    2. Kernel Methods and Latent Models
