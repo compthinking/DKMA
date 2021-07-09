@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>ECE 657A  Data and Knowledge Modeling and Analysis | blank</title>
+<title>ECE 657A  Data and Knowledge Modeling and Analysis | ECE 657A - Winter 2021 - Test 2</title>
 <meta name="description" content="">
 
 <!-- Open Graph -->
@@ -28,7 +28,7 @@
 <link rel="shortcut icon" href="/DKMA/assets/img/favicon.ico">
 <link rel="stylesheet" href="/DKMA/assets/css/main.css">
 
-<link rel="canonical" href="/DKMA/blog/">
+<link rel="canonical" href="/DKMA/archivednews/2021-03-12-test-2/">
 
 <!-- Theming-->
 
@@ -135,58 +135,155 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>Some thoughts on Data Analysis and Machine Learning</h2>
-  </div>
+<div class="post">
+
+  <header class="post-header">
+      
+    <p class="post-description" style="border-bottom-style:dashed; border-bottom-color:lightgrey; border-bottom-width:1px;">
+    Updated March 12, 2021 
+    
+    
+    
+    </p>
+  </header>
+
+  <article class="post-content">
+    <h1 id="ece-657a---winter-2021---test-2">ECE 657A - Winter 2021 - Test 2</h1>
+
+<p><strong>Scope:</strong> Content from live lectures and self-study videos from <em>weeks 5 - 9</em> inclusive (but not including Deep Learning)</p>
+
+<p><strong>Topics:</strong> Streaming Ensemble Methods. Feature Extraction, Dimensionality Reduction, Word Embeddings, SVM, Clustering Algorithms and Evaluation Measures, Anomaly Detection</p>
+
+<p><strong>Date and Time:</strong></p>
+
+<p>Was originally scheduled for March 11, will now be <strong>March 18-20</strong>
+- you will have a 72 period to <em>start</em> the test, March 18-20
+- then you will have a 3 hour window to actually do the test once you start</p>
+
+<p>The test will either be on Mobius (if we can get it working :)) or as a scanned paper/tablet submission on Crowdmark (just like the assignments but handwritten).</p>
+
+<p><strong>Question Types:</strong></p>
+
+<ul>
+  <li>True/False (<em>possibly</em> with a short one-sentence explanation)</li>
+  <li>Multiple Choice: choose the right answer (or best answer) out of 4-5 choices</li>
+  <li>Data/Output/Algorithm Matching:
+    <ul>
+      <li>Given a visualization of a dataset and the resulting output of an algorithm, identify the algorithm that was used</li>
+      <li>Draw your own representation of the expected algorithm output onto the data. This could be:
+        <ul>
+          <li>The orientation of the first and second components of the corresponding subspace of that algorithm (PCA, FDA, LLE)</li>
+          <li>The dividing line or class/cluster boundary for desginated points.</li>
+        </ul>
+      </li>
+      <li>or distinguish the parameters of that algorithm from a set of choices</li>
+    </ul>
+  </li>
+  <li>Calculations
+    <ul>
+      <li>Performance Metrics for various problems, given the numbers, calculate the measure correctly, possibly provide an explanation of the meaning or relative values between instances</li>
+      <li>Some of the internal calculations used in clustering/classification algorithms such as
+        <ul>
+          <li>K-means : mean point of a cluster, distance of point to other means, change in cluster assignment</li>
+          <li>DBScan : local</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Theoretical Question
+    <ul>
+      <li>Regarding Feature Extraction or Dimensionality Reduction</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="more-topics-details">More Topics Details</h2>
+
+<h3 id="streaming-ensemble-methods">Streaming Ensemble Methods</h3>
+
+<ul>
+  <li>Algorithms: definition/uses/tradeoffs and impact of the parameters on behaviour of algorithm
+    <ul>
+      <li>Hoeffding Trees</li>
+      <li>Mondrian Forests</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="feature-extraction">Feature Extraction</h3>
+
+<ul>
+  <li>Distinction between <em>Feature Extractio</em>n and <em>Feature Selection</em></li>
+</ul>
+
+<h3 id="representation-learning">Representation Learning</h3>
+
+<ul>
+  <li>PCA
+    <ul>
+      <li>Fundamentals of PCA</li>
+      <li>Eigenvalue decomposition</li>
+      <li>Deriving the closed form of an optimal subspace embedding</li>
+    </ul>
+  </li>
+  <li>ICA,FDA, LLE, ISOMAP - qualitative properties, output differences, usage and behaviour</li>
+  <li>t-SNE - usage and understanding the plots</li>
+</ul>
+
+<h3 id="word-embeddings">Word Embeddings</h3>
+
+<ul>
+  <li>bag of words, term frequency, document frequency - meanings and know how they apply</li>
+  <li>CBOW vs Skip-Gram - differences and when to apply each</li>
+  <li>Algorithms - how do they work? how do they differ? when do they apply? Advantages/disadvantages
+    <ul>
+      <li>GloVe</li>
+      <li>word2vec</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="support-vector-machines">Support Vector Machines</h3>
+
+<ul>
+  <li>Fundamentals of how algortihm works</li>
+  <li>Properties of it results, reliance on support vectors, relation between support vectors and margins</li>
+  <li>Purpose and impact of slack variable, C or $\frac{1}{\nu}$ constants</li>
+  <li>Definition and purpose of kernels, use for SVM and nonlinear classification</li>
+</ul>
+
+<h3 id="clustering-algorithms-and-evaluation-measures">Clustering Algorithms and Evaluation Measures</h3>
+
+<ul>
+  <li>look at the output of these measures and tell what they mean about the performance of the clustering algorithm</li>
+  <li>Algorithms - definition/uses/tradeoffs and impact of the parameters on behaviour of algorithm
+    <ul>
+      <li>k-means</li>
+      <li>DBScan</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="anomaly-detection">Anomaly Detection</h3>
+
+<ul>
+  <li>Hierarchical Methods, including tradeoffs of each, and purpose/difference between single link and complete link</li>
+  <li>Algorithms - definition/uses/tradeoffs and impact of the parameters on behaviour of algorithm
+    <ul>
+      <li>LOF</li>
+      <li>Isolation Forests</li>
+      <li>iMondrian Forests</li>
+      <li>One Class SVM</li>
+    </ul>
+  </li>
+</ul>
 
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/DKMA/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/DKMA/blog/2020/twitter/">a post with twitter</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/DKMA/blog/2018/distill/">a distill-style blog post</a></h3>
-        <p class="post-meta">December 22, 2018</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-  </ul>
+  </article>
 
   
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/DKMA/blog/index.html" title="blank">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/DKMA/blog/page/2/index.html" title="blank - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/DKMA/blog/page/3/index.html" title="blank - page 3">3</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/DKMA/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
-
 
 </div>
 
